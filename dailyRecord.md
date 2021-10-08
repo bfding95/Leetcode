@@ -14,3 +14,10 @@
 - [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
 - [33. Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+### 10/07
+
+- [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [6. Zig Zag Conversion](https://leetcode.com/problems/zigzag-conversion/solution/)
+- [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
